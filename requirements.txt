@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scipy
+yfinance
+vaderSentiment
+textblob
+fastapi
+uvicorn[standard]
+
+# tests
+pytest
+httpx

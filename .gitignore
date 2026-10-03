@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+
+# VS Code
+.vscode/
+
+# Database files
+db/*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Outputs (optional)
+outputs/*.csv
+
+# Raw transcripts (third-party copyrighted text — not redistributed)
+data/raw/*.txt
+
+# Test cache
+.pytest_cache/
